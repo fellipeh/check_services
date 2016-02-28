@@ -22,7 +22,7 @@ This repo, is pre-configured to use these V.M to test: https://github.com/fellip
 ```
 [
   {
-    "port": 8080,
+    "port": 80,
     "service": "apache"
   },
   {
@@ -30,7 +30,7 @@ This repo, is pre-configured to use these V.M to test: https://github.com/fellip
     "service": "sshd"
   },
   {
-    "port": 8089,
+    "port": 3306,
     "service": "mysql"
   }
 ]
