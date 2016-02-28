@@ -1,0 +1,10 @@
+[
+  {
+    "port": 80,
+    "service": "apache2"
+  },
+  {
+    "port": 3306,
+    "service": "mysql"
+  }
+]
